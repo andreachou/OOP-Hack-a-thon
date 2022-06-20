@@ -22,6 +22,13 @@
 
 Download Starter Code [HERE](https://login.codingdojo.com/m/506/12458/87339)
 
+
+<br/>
+
+***06.19.2022:
+Create a file for card game - high_card_win.py***
+
+
 <br/><br/>
 
 ## **Option 2: Ninjas vs Pirates**
